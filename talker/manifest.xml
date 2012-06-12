@@ -1,0 +1,16 @@
+<package>
+  <description brief="talker">
+
+     talker - node that receives a string and speaks it using festival.
+
+  </description>
+  <author>Chris</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+
+  <depend package="rospy"/>
+  <depend package="std_msgs"/>
+
+</package>
+
+
