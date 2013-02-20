@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/ptu46/ptu46_driver.h
+termios.h
+-
+
+/home/peter/fuerte_workspace/packages/ptu/ptu46/src/ptu46_driver.cc
+ptu46/ptu46_driver.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+termios.h
+-
+stdio.h
+-
+strings.h
+-
+unistd.h
+-
+stdlib.h
+-
+errno.h
+-
+string.h
+-
+math.h
+-
+

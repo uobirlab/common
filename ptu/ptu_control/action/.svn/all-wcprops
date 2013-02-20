@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1149/trunk/wu_ptu/ptu_control/action
+END
+PtuReset.action
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1149/trunk/wu_ptu/ptu_control/action/PtuReset.action
+END
+PtuSetVel.action
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1149/trunk/wu_ptu/ptu_control/action/PtuSetVel.action
+END
+PtuGoto.action
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1149/trunk/wu_ptu/ptu_control/action/PtuGoto.action
+END

@@ -1,0 +1,20 @@
+<package>
+  <description brief="ptu">
+
+     ptu
+
+  </description>
+  <author>Peter Hammonds</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/ptu</url>
+
+<depend package="ptu46" />
+
+<depend package="ptu_control" />
+
+<depend package="my_msgs" />
+
+</package>
+
+

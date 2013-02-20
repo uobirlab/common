@@ -1,0 +1,9 @@
+<launch>
+
+	<!-- ptu_node launch --> 
+	<include file="$(find ptu46)/ptu46_actions.launch" />
+
+	<!-- ptu_subscribe tracker -->
+	<node pkg="ptu" type="ptu_subscriber.py" name="ptusubscriber" respawn="true" output="screen" />
+
+</launch>
